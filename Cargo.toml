@@ -1,0 +1,10 @@
+[package]
+name = "red_cyclone"
+version = "0.1.0"
+authors = ["protom512 <ghouno05@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+env_logger = "*"
+log = "*"
+serenity = "*"
